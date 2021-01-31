@@ -1,2 +1,2 @@
-# Resources
- My texture pack
+# resources
+ Texture Pack
